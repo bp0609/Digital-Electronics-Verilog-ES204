@@ -1,0 +1,59 @@
+$date
+	Sat Mar 23 10:01:03 2024
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module Kmaps_tb $end
+$var wire 1 ! OUT $end
+$var reg 1 " A $end
+$var reg 1 # B $end
+$var reg 1 $ C $end
+$var reg 1 % D $end
+$scope module uut $end
+$var wire 1 " A $end
+$var wire 1 # B $end
+$var wire 1 $ C $end
+$var wire 1 % D $end
+$var wire 1 ! OUT $end
+$var wire 1 & w1 $end
+$var wire 1 ' w2 $end
+$var wire 1 ( w3 $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+0(
+0'
+0&
+0%
+1$
+0#
+1"
+0!
+$end
+#10
+1!
+1&
+1%
+#20
+0!
+0&
+0%
+1#
+#30
+0$
+0#
+#40
+1!
+1(
+1$
+0"
+#50
